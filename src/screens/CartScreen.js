@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
     color: '#5DBA3B',
   },
   checkoutButton: {
-    backgroundColor: '#5DBA3B',
+    backgroundColor: '#6cc51d',
     paddingVertical: 14,
     marginHorizontal: 16,
     borderRadius: 25,
@@ -307,7 +307,7 @@ const styles = StyleSheet.create({
   checkoutText: {
     color: '#fff',
     fontSize: 16,
-    fontWeight: 'bold',
+    fontWeight: '500',
   },
   contentWrapper: {
     flex: 1,
